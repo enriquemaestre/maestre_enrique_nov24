@@ -1,0 +1,5 @@
+#Vamos a ignorar los archivos en formato .xsd
+*.xsd 
+
+#Vamos a ignorar la carpeta top_secret
+top_secret/
